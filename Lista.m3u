@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA UNO
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7
@@ -99,8 +99,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00594-groupninemediai-popsugar-plex
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 PELIS
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="SPANISH",Vacaciones en Acapulco (1977)
-https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="SPANISH",Harry Potter 1
+https://s375klg.storage.yandex.net/rdisk/f6eaff86ddd02940dbe851684d63f551d1bfd9d99f6fd66681012a087255f40d/6a4f093f/9E8LvVRYrvJ9Ypy7DCbq8o1eHK-DSJiDPPs53Lz0xwervVwqKdC5TcU5RFXGg3PrsVvTs93OPCwNuA7O4wkGoA==?uid=0&filename=Harry%20Potter%20and%20the%20Sorcerer%20Stone%20%282001%29%20EXTENDED%201080p%20DUAL%20id_671.mkv&disposition=attachment&hash=GsdfZPhnujxiL57x34rDmYQnpCzNtaXWU24GSU/hpj2GJyB/b22iFSPPGWarjurbq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=video%2Fx-matroska&owner_uid=2368163027&fsize=10739925097&hid=464bfc1731d420d92f36e27d84d04f2b&media_type=video&tknv=v3&is_direct_zip_experiment=1&ts=656247ed58dc0&s=f8b4a915f8b36a7f63847b21ba49a5b956a40a01cc00e81be9a4f0ee2b586f11&pb=U2FsdGVkX1_51WKLrBmJpvmejbma6Wj0HaBBJca3Z59Y2O258nco0inbwPsIXf0kkHlHmjcy9OzdHsHlMRg61_kU4dN0E6ffPOx7WgCc3ak
 
 #EXTINF:-1 tvg-logo="https://ringostrack.com/bundles/soundtrackindex/img/cover/28971_la-presidenta-municipal.jpg" group-title="SPANISH",La Presidenta Municipal (1975)
 https://ia801503.us.archive.org/11/items/LaIndiaMariaLaPresidentaMunicipal/La%20India%20Maria%20La%20Presidenta%20Municipal.mp4
